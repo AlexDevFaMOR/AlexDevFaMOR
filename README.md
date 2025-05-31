@@ -1,5 +1,5 @@
 <!-- About me -->
-![2](2.gif)
+![2](assets/2.gif)
 
 <table width="100%">
   <tr>
