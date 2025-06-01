@@ -90,7 +90,7 @@
   <summary><h2>🌐Find me online</h2></summary>
     > 🚀 Connect with me beyond GitHub — I share projects, code, and digital explorations across platforms.
     <p align="center">
-      <img src="assets/contact.png"><br>
+      <img src="assets/contac.png"><br>
       <a href="https://www.facebook.com/profile.php?id=123456789012345" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook Badge" />
       </a>
