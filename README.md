@@ -8,9 +8,9 @@
 </table>
 <table width="100%">
   <tr>
-    <td width="49%"><img src="assets/3.1.gif"></td>
-    <td width="17%"><img src="assets/3.3.gif"></td>
-    <td width="34%" valign="top">
+    <td><img src="assets/3.1.gif"></td>
+    <td><img src="assets/3.3.gif"></td>
+    <td valign="top">
       <img src="assets/ser.gif">
       <details>
       <summary>About me</summary>
