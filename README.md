@@ -1,3 +1,10 @@
+> [!Important]
+> 
+> For the best viewing experience, especially on mobile devices, please consider rotating your screen to **landscape mode** (horizontal view).
+> 
+> This profile includes a custom layout with side-by-side images and formatted text that may not render optimally in portrait mode. Thank you for your understanding!
+
+
 <!-- About me -->
 <table width="100%">
   <tr>
@@ -16,19 +23,23 @@
       <summary>About me</summary>
       <pre>Hi, i'm Alex, a Software and Network<br>Design Engineer. I'm currently<br>training as a Full Stack Web Developer<br>combining visual thinking, logical<br>structure, and results. I'm certified<br>in Project Management, and deeply<br>passionate about video game<br>development, technological innovation<br>and biomechatronics. I believe in<br>designing solutions that are as clear<br>as they are functional-blending<br>creativity with logic.</pre>          
       </details>
-    </
-td>
+    </td>
   </tr>
 </table>
 <!-- Main -->
 <details>
 <summary><h3>Learn more</h3></summary>
 
-[![Music](https://img.shields.io/badge/Coding%20Vibes-Nighttime%20Disguise-orange?style=flat-square&logo=spotify)](https://open.spotify.com/track/2cXtLOiUWyCDebAT65p5cJ)
+> 🎧 Enjoy some background music while browsing this profile!  
+> Feel free to hit play and get in the zone.
+
+<a href="https://open.spotify.com/track/2cXtLOiUWyCDebAT65p5cJ" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Coding%20Vibes-Nighttime%20Disguise-orange?style=flat-square&logo=spotify" alt="Music Badge" />
+</a>
 
 <!-- Skills -->
   <details>
-  <summary><h2>Development Toolkit</h2></summary>
+  <summary><h2>🧰Development Toolkit</h2></summary>
   <!-- Languages -->
   <p>
     <strong>Languages:</strong><br>
@@ -76,8 +87,21 @@ td>
 
 <!-- Contat -->
   <details>
-  <summary><h2>Find me online</h2></summary>
-  <p></p>
+  <summary><h2>🌐Find me online</h2></summary>
+    > 🚀 Connect with me beyond GitHub — I share projects, code, and digital explorations across platforms.
+    <p align="center">
+      <img src="assets/contact.png"><br>
+      <a href="https://www.facebook.com/profile.php?id=123456789012345" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook Badge" />
+      </a>
+      &nbsp;&nbsp;&nbsp;
+      <a href="https://www.instagram.com/alejandro.padilla.m/" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/Instagram-@tuusuario-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram Badge" />
+      </a>
+      &nbsp;&nbsp;&nbsp;
+      <a href="https://www.linkedin.com/in/alexdevfamor/" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+    </p>
   </details>
 </details>
 
