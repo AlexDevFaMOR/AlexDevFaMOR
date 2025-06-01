@@ -5,18 +5,20 @@
       <img src="assets/2.gif">
     </td>
   </tr>
-</table>
+</
+table>
 <table width="100%">
   <tr>
     <td width="48%"><img src="assets/3.1.gif"></td>
     <td width="17%"><img src="assets/3.3.gif"></td>
-    <td width="34%" valign="top">
+    <td width="33%" valign="top">
       <img src="assets/ser.gif">
       <details>
       <summary>About me</summary>
       <pre>Hi, i'm Alex, a Software and Network<br>Design Engineer. I'm currently<br>training as a Full Stack Web Developer<br>combining visual thinking, logical<br>structure, and results. I'm certified<br>in Project Management, and deeply<br>passionate about video game<br>development, technological innovation<br>and biomechatronics. I believe in<br>designing solutions that are as clear<br>as they are functional-blending<br>creativity with logic.</pre>          
       </details>
-    </td>
+    </
+td>
   </tr>
 </table>
 <!-- Main -->
