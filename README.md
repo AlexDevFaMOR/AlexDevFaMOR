@@ -25,7 +25,7 @@ td>
 <details>
 <summary><h3>Learn more</h3></summary>
 
-[![Music](https://img.shields.io/badge/Coding%20Vibes-LoFi%20Beats-orange?style=flat-square&logo=spotify)](https://open.spotify.com/playlist/37i9dQZF1DX8Uebhn9wzrS)
+[![Music](https://img.shields.io/badge/Coding%20Vibes-Nighttime%20Disguise-orange?style=flat-square&logo=spotify)](https://open.spotify.com/track/2cXtLOiUWyCDebAT65p5cJ)
 
 <!-- Skills -->
   <details>
