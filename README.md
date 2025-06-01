@@ -7,11 +7,11 @@
   </tr>
 </
 table>
-<table width="100%">
+<table width="990px">
   <tr>
-    <td width="49%"><img src="assets/3.1.gif"></td>
-    <td width="17%"><img src="assets/3.3.gif"></td>
-    <td width="34%" valign="top">
+    <td width="495px"><img src="assets/3.1.gif"></td>
+    <td width="175px"><img src="assets/3.3.gif"></td>
+    <td width="340px" valign="top">
       <img src="assets/ser.gif">
       <details>
       <summary>About me</summary>
