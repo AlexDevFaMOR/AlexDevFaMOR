@@ -1,24 +1,29 @@
 <!-- About me -->
-![2](assets/2.gif)
-
-<table width="100%">
+<table>
   <tr>
-    <td><img src="assets/3.1.gif"></td>
-    <td><img src="assets/3.3.gif"></td>
-    <td>
-      <img src="assets/ser.png"><br>
-      <img src="assets/text.png">
+    <td width="100%">
+      <img src="assets/2.gif">
     </td>
   </tr>
 </table>
-
+<table width="100%">
+  <tr>
+    <td width="48%"><img src="assets/3.1.gif"></td>
+    <td width="17%"><img src="assets/3.3.gif"></td>
+    <td width="34%" valign="top">
+      <img src="assets/ser.gif">
+      <details>
+      <summary>About me</summary>
+      <pre>Hi, i'm Alex, a Software and Network<br>Design Engineer. I'm currently<br>training as a Full Stack Web Developer<br>combining visual thinking, logical<br>structure, and results. I'm certified<br>in Project Management, and deeply<br>passionate about video game<br>development, technological innovation<br>and biomechatronics. I believe in<br>designing solutions that are as clear<br>as they are functional-blending<br>creativity with logic.</pre>          
+      </details>
+    </td>
+  </tr>
+</table>
 <!-- Main -->
 <details>
 <summary><h3>Learn more</h3></summary>
-<p>I'm certified in Project Management, and deeply passionate about video game development, technological innovation, and biomechatronics. I believe in designing solutions that are as clear as they are functional—blending creativity with logic.</p>
 
 [![Music](https://img.shields.io/badge/Coding%20Vibes-LoFi%20Beats-orange?style=flat-square&logo=spotify)](https://open.spotify.com/playlist/37i9dQZF1DX8Uebhn9wzrS)
-
 
 <!-- Skills -->
   <details>
@@ -68,7 +73,7 @@
 
 ---  
 
-  <!-- Contat -->
+<!-- Contat -->
   <details>
   <summary><h2>Find me online</h2></summary>
   <p></p>
@@ -78,9 +83,15 @@
 ---
 
 <!-- Footer -->
-![pie](assets/3.7.gif)
-Thanks for stopping by — let’s build something great. | Powered by ☕
-![Footer](assets/4.gif)
+<table width="100%">
+  <tr>
+    <td>
+      <img src="assets/3.7.gif">
+      Thanks for stopping by — let’s build something great. | Powered by ☕
+      <img src="assets/4.gif">
+    </td>
+  </tr>
+</table>
 
 <div align="center">
 
