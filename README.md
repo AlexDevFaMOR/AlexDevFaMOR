@@ -96,7 +96,7 @@
       </a>
       &nbsp;&nbsp;&nbsp;
       <a href="https://www.instagram.com/alejandro.padilla.m/" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/Instagram-@tuusuario-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram Badge" />
+        <img src="https://img.shields.io/badge/Instagram-@profile-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram Badge" />
       </a>
       &nbsp;&nbsp;&nbsp;
       <a href="https://www.linkedin.com/in/alexdevfamor/" target="_blank" rel="noopener noreferrer">
