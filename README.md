@@ -35,9 +35,10 @@
  
 > Note:
 > GitHub user profile READMEs do not support opening links in new tabs automatically. Please right-click the link and select **"Open link in new tab"** to open it separately.
+
 > Imagen: Kent Sacedon
-Fuente original: https://plus.google.com/102750409570882819988
-Encontrada en: https://www.pinterest.com/
+> Fuente original: https://plus.google.com/102750409570882819988
+> Encontrada en: https://www.pinterest.com/
 
 <a href="https://open.spotify.com/track/2cXtLOiUWyCDebAT65p5cJ" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Coding%20Vibes-Nighttime%20Disguise-orange?style=flat-square&logo=spotify" alt="Music Badge" />
